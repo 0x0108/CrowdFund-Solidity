@@ -9,3 +9,4 @@ The contributers shall vote for various submitted requrests
 
 Our contract will calculate if any rquest has recieved more than 50 percent votes, the eligible request gets funds automatically without any central authority.
 
+Satheesh Kumar
